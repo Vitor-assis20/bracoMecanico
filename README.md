@@ -1,1 +1,1 @@
-Projeto de um braço mecanica desenvolvido para a disciplina de Introdução a Engenharia de controle e automação
+Projeto de um braço mecanico desenvolvido para a disciplina de Introdução a Engenharia de controle e automação
